@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タンクトップ・ランナウェイ",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-04-03T13:09:14.551072Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タンクトップ・ランナウェイ",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_タンクトップ・ランナウェイ_SKRYU.txt"
+    }
+  ]
+}
